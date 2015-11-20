@@ -50,3 +50,4 @@ object HelloObjectPlusClass {
   val d = a :: b
   println(d.flatten)
 }
+
